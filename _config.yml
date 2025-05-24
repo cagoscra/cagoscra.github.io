@@ -1,3 +1,13 @@
+title: "Oscar Carrillo | Cybersecurity Engineer"
+description: "Computer Engineer transitioning to cybersecurity | CC (ISC²) & Google Certified | Secure SDLC | Cloud Security"
+url: "https://cagoscra.github.io"  # Replace with your actual GitHub Pages URL
 theme: jekyll-theme-minimal
-title: Cagoscra's homepage
-description: Bookmark this to keep an eye on my project updates!
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
+# Optional: Customize social links
+social:
+  github: cagoscra  # Your GitHub username
+  linkedin: oscar-rene-carrillo
+  twitter: @cagoscra
