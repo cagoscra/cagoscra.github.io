@@ -34,7 +34,7 @@ Building expertise in:
 **Earned:**  
 - [ISC² Certified in Cybersecurity (CC)](https://www.credly.com/badges/acbaaeb1-18a3-4f59-ac84-b5b011066d54)  
 - [Google Cybersecurity (Coursera)](https://coursera.org/verify/professional-cert/L3TNSTVG7FTR)  
-- AWS Cloud Practitioner  
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/015125ef-c6cb-4018-b8ab-a4cbbdb39900)  
 
 **In Progress:**  
 - Practical labs on TryHackMe/HackTheBox  
